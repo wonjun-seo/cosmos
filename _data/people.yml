@@ -1,9 +1,9 @@
 instructors:
   - name: Xiucai Ding
-    profile_pic: /_images/pp/ding.jpg
+    profile_pic: /_images/pp/inst_ding.jpg
     webpage: https://xcding1212.github.io
   - name: Shizhe Chen
-    profile_pic: /_images/pp/chen.jpg
+    profile_pic: /_images/pp/inst_chen.jpg
     webpage: https://www.chenshizhe.com
 
 teaching_assistants:
