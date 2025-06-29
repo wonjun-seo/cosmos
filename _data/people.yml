@@ -6,9 +6,13 @@ instructors:
     profile_pic: /_images/pp/inst_chen.jpg
     webpage: https://www.chenshizhe.com
 
+teacher_fellow:
+  - name: Keith Sabini
+    profile_pic: /_images/pp/tf_sabini.jpg
+
 teaching_assistants:
   - name: Wonjun Seo
     profile_pic: /_images/pp/ta_seo.jpg
 
-  - name: JP
-    profile_pic: /_images/pp/ta_jp.jpg
+  - name: JP Maestas
+    profile_pic: /_images/pp/ta_maestas.jpg

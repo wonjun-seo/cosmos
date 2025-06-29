@@ -48,6 +48,22 @@ layout: default
 
         <div style="width:65%; float: left">
             <div class="profile-pic-gallary ">
+                <h2>Teacher Fellow</h2>
+                {% for tf in site.data.people.teacher_fellow %}
+                <div class="image--cover-container">
+                    <img src="{{tf.profile_pic | prepend: site.baseurl }}" class="image--cover">
+                    {% if tf.webpage %}
+                    <p><a href="{{ tf.webpage }}">{{tf.name}}</a></p>
+                    {% else %}
+                    <p>{{tf.name}}</p>
+                    {% endif %}
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+
+        <div style="width:65%; float: left">
+            <div class="profile-pic-gallary ">
                 <h2>Teaching Assistants</h2>
                 {% for ta in site.data.people.teaching_assistants %}
                 <div class="image--cover-container">
