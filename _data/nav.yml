@@ -11,6 +11,9 @@ items:
   name: Lectures
   icon_class: fas fa-book-reader
 
+- url: /labs/
+  name: Labs
+  icon_class: fa-solid fa-laptop-code
 
 - url: /project/
   name: Project
