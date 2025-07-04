@@ -1,0 +1,13 @@
+---
+layout: page
+---
+
+{{ content }}
+<ul id="archive">
+{% for lab in site.labs %}
+      <li class="archiveposturl" style="background: transparent">
+        <span><a href="{{ lab.url | prepend: site.baseurl}}">{{ lab.title }}</a></span>
+        <strong style="font-size:100%; font-family: 'Titillium Web', sans-serif; float:right"></strong> 
+      </li>
+{% endfor %}
+</ul>
