@@ -43,9 +43,7 @@ Here, `<name>` should be your name.
 - Type the following script and press enter to setup email: `git config --global user.email <email>`.
 Here, `<email>` should be your github account email.
 
-- Check your config: `git config list`
-
-- To exit, press `q`
+- Check your config: `git config list`. To exit, press `q`
 
 ## VS code
 
