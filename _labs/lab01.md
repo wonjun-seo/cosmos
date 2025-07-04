@@ -36,14 +36,12 @@ In today's Lab session, we will
 ### 3. Config setup
 
 - Open terminal (Mac) or cmd (Windows).
-- Type the following script and press enter to setup name: `git config --global user.name <name>`
+- Type the following script and press enter to setup name: `git config --global user.name <name>`.
+Here, `<name>` should be your name.
 
-`<name>` should be your name.
 
-
-- Type the following script and press enter to setup email: `git config --global user.email <email>`
-
-`<email>` should be your github account email.
+- Type the following script and press enter to setup email: `git config --global user.email <email>`.
+Here, `<email>` should be your github account email.
 
 - Check your config: `git config list`
 
