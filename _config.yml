@@ -42,4 +42,4 @@ collections:
         output: true
     labs:
         output: true
-        permalink: /labs/:name/
+        permalink: /cosmos/labs/:name/
