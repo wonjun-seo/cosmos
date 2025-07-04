@@ -7,7 +7,7 @@ date: 2025-07-07
 In today's Lab session, we will 
 
 - install Git and VS code.
-- create a Github account and link it to your computer.
+- create a Github account and link it to VS code.
 - create a test repository and understand how it works.
 - create a group website.
 
