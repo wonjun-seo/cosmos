@@ -3,7 +3,7 @@ layout: lab
 title: "Lab 01: Software Setup (Git, Github, VS code)"
 date: 2025-07-07
 ---
-## Goal
+# Goal
 In today's Lab session, we will 
 
 - install Git and VS code.
@@ -11,17 +11,17 @@ In today's Lab session, we will
 - create a test repository and understand how it works.
 - create a group website.
 
-## Git and Github
+# I. Git and Github
 
-### 1. Installation
+## 1. Installation
 
-#### Mac
+### Mac
 
 - Open terminal.
 - Type `git --version` and press enter.
 - If git is already installed, then the installed version will be displayed. If git is not installed, then it will automatically start installation.
 
-#### Windows
+### Windows
 
 - Go to https://git-scm.com/downloads/win and download the file.
 - During installation, there will be a step for setting PATH environment. Choose 'Git from the command line and also from 3rd-party software'.
@@ -33,37 +33,36 @@ In today's Lab session, we will
 
 - Go to https://github.com and create a new account. Use the email that you frequently use.
 
-### 3. Config setup
+## 3. Config setup
 
 - Open terminal (Mac) or cmd (Windows).
 - Type the following script and press enter to setup name: `git config --global user.name <name>`.
 Here, `<name>` should be your name.
-
 
 - Type the following script and press enter to setup email: `git config --global user.email <email>`.
 Here, `<email>` should be your github account email.
 
 - Check your config: `git config list`. To exit, press `q`
 
-## VS code
+# II. VS code
 
-### 1. Installation
+## 1. Installation
 
 - Go to https://code.visualstudio.com/Download and download.
 
-#### Mac
+### Mac
 
 - After installation, move `Visual Studio Code.app` to Applications folder. 
 - Open VS code.
 - Press `Cmd+Shift+P` and type `Shell Command` and click `install 'code' command ...`.
 - Open terminal and type `code .` and press enter.
 
-#### Windows
+### Windows
 
 - During installation, please make sure you check "Add to PATH".
 - After installation, open cmd and type `code .` and press enter.
 
-### 2. Link to Github
+## 2. Link to Github
 
 - Open VS code.
 - Click the profile icon at the bottom left.
@@ -72,9 +71,7 @@ Here, `<email>` should be your github account email.
 - Click `Sign in with Github` and follow instructions.
 - (Optional) Activate Github Copilot.
 
-
-
-## Test repository
+# III. Test repository
 
 - Create `test` directory whereever you want.
 - Open VS code and click `File-Open folder`  and choose `test`.
@@ -88,18 +85,13 @@ Here, `<email>` should be your github account email.
 - Try push and pull.
 - After enough exercises, you may delete this repository from both your computer and github.
 
-
-
 **File status markers**
 
 - **U**: untracked (new file but hasn't been added to the repository yet)
 - **A**: added (new file added to the repository)
 - **M**: modified
 - **R**: renamed
-
 - **D**: deleted
-
-
 
 Throughout this course, you may have to maintain three repositories:
 
@@ -107,17 +99,17 @@ Throughout this course, you may have to maintain three repositories:
 2. Group project (possibly collaboration).
 3. Group website (collaboration).
 
-## Create the group website
+# IV. Create the group website
 
 Every group will create a group website to present their final project.
 
 - Go to https://github.com/wonjun-seo/cosmos-demo and follow the instruction.
 
-#### Assignments
+## Assignments
 
 Update member information!
 
-## Tomorrow
+# Tomorrow
 
 In tomorrow's Lab session, we will install Python.
 
