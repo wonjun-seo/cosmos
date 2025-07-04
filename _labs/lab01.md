@@ -36,27 +36,18 @@ In today's Lab session, we will
 ### 3. Config setup
 
 - Open terminal (Mac) or cmd (Windows).
-- Type the following script and press enter to setup name: `<name>` should be your name.
+- Type the following script and press enter to setup name: `git config --global user.name <name>`
 
-``` zsh
-git config --global user.name "<name>"
-```
+`<name>` should be your name.
 
-- Type the following script and press enter to setup email: `<email>` should be your github account email.
 
-```zsh
-git config --global user.email "<email>"
-```
+- Type the following script and press enter to setup email: `git config --global user.email <email>`
 
-- Check your config
+`<email>` should be your github account email.
 
-```zsh
-git config list
-```
+- Check your config: `git config list`
 
 - To exit, press `q`
-
-
 
 ## VS code
 
