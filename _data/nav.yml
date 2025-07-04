@@ -15,3 +15,7 @@ items:
 - url: /project/
   name: Project
   icon_class: fas fa-user-graduate
+
+- url:/links/
+  name: Links
+  icon_class: fas fa-link
