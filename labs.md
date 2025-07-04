@@ -3,5 +3,3 @@ layout: labs
 title: Labs
 permalink: /labs/
 ---
-
-dd
