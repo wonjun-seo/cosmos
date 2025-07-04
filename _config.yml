@@ -40,13 +40,6 @@ future: true
 collections:
     lectures:
         output: true
-      labs:
+    labs:
         output: true
         permalink: /labs/:name/
-
-defaults:
-  - scope:
-      path: ""
-      type: "labs"
-    values:
-      layout: "lab"
