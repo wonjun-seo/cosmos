@@ -13,7 +13,7 @@ items:
 
 - url: /labs/
   name: Labs
-  icon_class: fa-solid fa-laptop-code
+  icon_class: fas fa-laptop-code
 
 - url: /project/
   name: Project
