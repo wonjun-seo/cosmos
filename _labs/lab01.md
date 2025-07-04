@@ -23,7 +23,7 @@ In today's Lab session, we will
 
 ### Windows
 
-- Go to https://git-scm.com/downloads/win and download the file.
+- Go to <https://git-scm.com/downloads/win> and download the file.
 - During installation, there will be a step for setting PATH environment. Choose 'Git from the command line and also from 3rd-party software'.
 - After installation, open cmd.
 - Type `git--version` and press enter.
@@ -31,7 +31,7 @@ In today's Lab session, we will
 
 ## 2. Create a Github account
 
-- Go to https://github.com and create a new account. Use the email that you frequently use.
+- Go to <https://github.com> and create a new account. Use the email that you frequently use.
 
 ## 3. Config setup
 
@@ -48,7 +48,7 @@ Here, `<email>` should be your github account email.
 
 ## 1. Installation
 
-- Go to https://code.visualstudio.com/Download and download.
+- Go to <https://code.visualstudio.com/Download> and download.
 
 ### Mac
 
@@ -76,7 +76,7 @@ Here, `<email>` should be your github account email.
 - Create `test` directory whereever you want.
 - Open VS code and click `File-Open folder`  and choose `test`.
 - Create `README.md` file.
-- Type anything :) Quick reference to markdown syntax: https://www.markdownguide.org/cheat-sheet/
+- Type anything you want. Quick reference to markdown syntax: <https://www.markdownguide.org/cheat-sheet/>
 - Press `Cmd+S` (Mac) or `Ctrl+S` (Windows) to save it.
 - Click source-control icon on the left.
 - Click `Initialize repository`. Now, in `test` directory, a hidden directory `.git` is created.
@@ -103,7 +103,7 @@ Throughout this course, you may have to maintain three repositories:
 
 Every group will create a group website to present their final project.
 
-- Go to https://github.com/wonjun-seo/cosmos-demo and follow the instruction.
+- Go to <https://github.com/wonjun-seo/cosmos-demo> and follow the instructions.
 
 ## Assignments
 
