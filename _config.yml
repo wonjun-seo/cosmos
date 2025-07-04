@@ -38,15 +38,11 @@ dateformat: "%m/%d/%Y"
 
 future: true
 collections:
-    events:
-        output: true
     lectures:
         output: true
-    assignments:
+      labs:
         output: true
-    announcements:
-        output: false
-
+        permalink: /labs/:name/
 
 defaults:
   - scope:
