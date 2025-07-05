@@ -49,7 +49,7 @@ In today's Lab session, we will:
 - Open **Terminal** (Mac) or **cmd** (Windows).
 - Set your name: `git config --global user.name <name>`.
 - Set your email: `git config --global user.email <email>`. Here, `<email>` should be your **github account email**.
-- To check your configuration: `git config list`. Press `q` to exit.
+- To check your configuration: `git config --list`. Press `q` to exit.
 
 # II. VS Code
 
