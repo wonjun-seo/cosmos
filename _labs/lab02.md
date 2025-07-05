@@ -34,7 +34,7 @@ In today's Lab session, we will:
 
 # II. Virtual Environment
 - Create a new directory anywhere on your computer (e.g. create `cosmos` in Desktop).
-- Download [this yaml file](/static_files/environment.yml) and locate it to the folder you created.
+- Download [this yaml file](/cosmos/static_files/environment.yml) and locate it to the folder you created.
 - Open VS Code.
 - Click File -> Open Folder... -> choose the folder you created.
 - Click Terminal -> New Terminal
@@ -44,6 +44,6 @@ In today's Lab session, we will:
 - Create `test.ipynb` and select `cosmos` kernel. Run `print("Hello, world").
 
 # III. (Optional) Create repository
-If you want to create a repository for the version control, repeat the process that we learned in [Lab 01](/labs/lab01/#iii-test-repository).
+If you want to create a repository for the version control, repeat the process that we learned in [Lab 01](/cosmos/labs/lab01/#iii-test-repository).
 
 # IV. Basic codes.
