@@ -44,7 +44,7 @@ In today's Lab session, we will:
 - Type `git --version` and press enter.
 - If **Git** is successfully installed, then the version number will be displayed. Now, go to 3. Git Configuration.
 
-## I-3. Git Configuration
+## I.3. Git Configuration
 
 - Open **Terminal** (Mac) or **cmd** (Windows).
 - Set your name: `git config --global user.name <name>`.
