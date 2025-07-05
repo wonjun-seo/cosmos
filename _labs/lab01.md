@@ -31,7 +31,7 @@ In today's Lab session, we will:
 
 **Mac**
 
-- The installation process will begin automatically.
+- The installation will start automatically and may take some time. However, there's a faster method available (Homebrew). If the estimated time exceeds 10 minutes, please let us know.
 
 **Windows**
 
