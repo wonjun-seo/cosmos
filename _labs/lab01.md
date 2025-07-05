@@ -20,7 +20,7 @@ In today's Lab session, we will:
 - Open **Terminal** (Mac) or **Command prompt (cmd)** (Windows).
 - Type `git config list` and press enter.
   - If your name and email address of your **Github** account are correctly displayed, you already setup **Git** properly. Go to II. VS Code.
-  - If you get an error message `command not found`, follow steps in [I-2](#I.2.-installation) and [I-3](#I.3.-git-configuration).
+  - If you get an error message `command not found`, follow steps in [I.2](#i2-installation) and [I.3](#i3-git-configuration).
 
 ## I.1. Create a Github Account
 
