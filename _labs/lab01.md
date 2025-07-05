@@ -67,8 +67,8 @@ In today's Lab session, we will:
 ## II.1. Installation
 
 - Go to <https://code.visualstudio.com/Download> and download the installer.
-- (Mac) After installation, move **Visual Studio Code.app** to the **Applications** folder.
-- (Windows) During installation, check "Add to PATH".
+- **(Mac)** After installation, move **Visual Studio Code.app** to the **Applications** folder.
+- **(Windows)** During installation, check "Add to PATH".
 
 ### After installation
 
@@ -106,6 +106,9 @@ In today's Lab session, we will:
 - Stage and Commit.
 - Click `Publish branch` and follow the instructions.
 - Try Push and Pull.
+- To open preview on VS Code,
+  - **(Mac)**: Press `Cmd+K` then release and press `V`.
+  - **(Windows)**: Press `Ctrl+K` then release and press `V`.
 - After enough exercises, you may delete this repository from both Github and your local computer.
 
 **File status markers**
