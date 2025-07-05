@@ -42,7 +42,7 @@ In today's Lab session, we will:
 
 - Open **Terminal** (Mac) or **cmd** (Windows).
 - Type `git --version` and press enter.
-- If **Git** is successfully installed, then the version number will be displayed. Now, go to 3. Git Configuration.
+- If **Git** is successfully installed, then the version number will be displayed. Now, go to [I.3](#i3-git-configuration).
 
 ## I.3. Git Configuration
 
@@ -58,7 +58,7 @@ In today's Lab session, we will:
 - Open **Terminal** (Mac) or **cmd** (Windows).
 - Type `code .` and press enter.
   - If you get an error message `command not found`, follow steps in [II.1](#ii1-installation) and [II.2](#ii2-link-to-github).
-- Click the profile icon at the bottom left. If you can see your **Github** acount, then you already set up VS Code properly. If you know how to use Git (create repository / publish repository / push / pull), then go to [IV](#iv-create-a-group-website). If not, go to [III](#iii-test-repository).
+- Click the profile icon at the bottom left. If you can see your **Github** acount, then you already set up VS Code properly. If you know how to use Git (create repository/publish repository/push/pull), then go to [IV](#iv-create-a-group-website). If not, go to [III](#iii-test-repository).
 
 ## II.1. Installation
 
