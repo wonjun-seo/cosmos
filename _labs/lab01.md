@@ -53,14 +53,14 @@ In today's Lab session, we will:
 
 # II. VS Code
 
-## II-0. Verify Your Installation
+## II.0. Verify Your Installation
 
 - Open **Terminal** (Mac) or **cmd** (Windows).
 - Type `code .` and press enter.
-  - If you get an error message `command not found`, follow steps in II-1 and II-2.
-- Click the profile icon at the bottom left. If you can see your **Github** acount, then you already set up VS Code properly. If you know how to use Git (create repository / publish repository / push / pull), then go to IV. If not, go to III.
+  - If you get an error message `command not found`, follow steps in [II.1](#ii1-installation) and [II.2](#ii2-link-to-github).
+- Click the profile icon at the bottom left. If you can see your **Github** acount, then you already set up VS Code properly. If you know how to use Git (create repository / publish repository / push / pull), then go to [IV](#iv-create-a-group-website). If not, go to [III](#iii-test-repository).
 
-## II-1. Installation
+## II.1. Installation
 
 - Go to <https://code.visualstudio.com/Download> and download the installer.
 - (Mac) After installation, move **Visual Studio Code.app** to the **Applications** folder.
@@ -72,13 +72,13 @@ In today's Lab session, we will:
 
 - Open **VS Code**.
 - Press `Cmd+Shift+P`, type `Shell Command`, and click `install 'code' command ...`.
-- Open **Terminal** and type `code .`, then press enter. If **VS Code** is open, you're done. Go to II-2.
+- Open **Terminal** and type `code .`, then press enter. If **VS Code** is open, you're done. Go to [II.2](#ii2-link-to-github).
 
 **Windows**
 
-- Open  **cmd** and type `code .`, then press enter. If **VS Code** is open, you're done. Go to II-2.
+- Open  **cmd** and type `code .`, then press enter. If **VS Code** is open, you're done. Go to [II.2](#ii2-link-to-github).
 
-## II-2. Link to Github
+## II.2. Link to Github
 
 - Open **VS code**.
 - Click the profile icon at the bottom left.
