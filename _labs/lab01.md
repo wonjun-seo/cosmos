@@ -58,7 +58,11 @@ In today's Lab session, we will:
 - Open **Terminal** (Mac) or **cmd** (Windows).
 - Type `code .` and press enter.
   - If you get an error message `command not found`, follow steps in [II.1](#ii1-installation) and [II.2](#ii2-link-to-github).
-- Click the profile icon at the bottom left. If you can see your **Github** acount, then you already set up VS Code properly. If you know how to use Git (create repository/publish repository/push/pull), then go to [IV](#iv-create-a-group-website). If not, go to [III](#iii-test-repository).
+- Click the profile icon at the bottom left.
+  - If you can see your **Github** acount, then you already linked your Github account to VS code.
+    - If you also installed all necessary extenstions (python, pylance, jupyter) and know how to use Git (create repository/publish repository/push/pull), then go to [IV](#iv-create-a-group-website).
+    - If not, follow steps in [II.3](#ii3-extensions) and [III](#iii-test-repository).
+  - If not, go to [II.2](#ii2-link-to-github).
 
 ## II.1. Installation
 
@@ -85,6 +89,10 @@ In today's Lab session, we will:
 - Click `Backup and Sync Settings`.
 - Click `Sign in`, then choose `Sign in with Github` and follow instructions.
 - *(Optional)* Activate **Github Copilot**.
+
+## II.3 Extensions
+- Click the extension icon on the left sidebar.
+- Search and install `Python`, `Pylance`, `Jupyter` extensions.
 
 # III. Test Repository
 
