@@ -33,7 +33,9 @@ excerpt_separator: "<!--more-->"
 
 include: ['_images', '_css']
 exclude: ['develop']
-
+exclude:
+    - develop
+    - static_files/environment.yml
 dateformat: "%m/%d/%Y"
 
 future: true
