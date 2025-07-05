@@ -18,7 +18,7 @@ In today's Lab session, we will:
 - Type `conda --version` and press enter.
   - If your version is not very outdated (latest: 25.5.1), you may use it. Go to [II](#ii-virtual-environment).
   - If not, update by running `conda update conda`. After updating, check the version again, and go to [II](#ii-virtual-environment).
-  - If you get an error message `command not found`, follow steps in I-1.
+  - If you get an error message `command not found`, follow steps in [I.1](#i1-installation).
 
 ## I.1. Installation
 
