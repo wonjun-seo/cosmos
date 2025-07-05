@@ -40,8 +40,8 @@ In today's Lab session, we will:
 - Click Terminal -> New Terminal
 - Type `conda env create` and press enter. This creates conda environment `cosmos` with specified packages in `environment.yml` file in your computer.
 - Type `conda activate cosmos`. This activates the environment `cosmos`. You may see `(cosmos)` on your terminal.
-- Create `test.py` and select `cosmos` interpreter. Run `print("Hello, world").
-- Create `test.ipynb` and select `cosmos` kernel. Run `print("Hello, world").
+- Create `test.py` and select `cosmos` interpreter. Run `print("Hello, world")`.
+- Create `test.ipynb` and select `cosmos` kernel. Run `print("Hello, world")`.
 
 # III. (Optional) Create repository
 If you want to create a repository for the version control, repeat the process that we learned in [Lab 01](/cosmos/labs/lab01/#iii-test-repository).
