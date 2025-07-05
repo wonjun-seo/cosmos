@@ -32,9 +32,8 @@ permalink: blog/:year/:month/:title
 excerpt_separator: "<!--more-->"
 
 include: ['_images', '_css']
-exclude:
-    - develop
-    - static_files/environment.yml
+exclude: ['develop']
+
 dateformat: "%m/%d/%Y"
 
 future: true
