@@ -22,5 +22,3 @@ dependencies:
   - pytorch
   - torchvision
   - pip
-  - pip:
-      - tensorflow_decision_forests
