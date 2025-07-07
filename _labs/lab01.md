@@ -7,10 +7,9 @@ date: 2025-07-07
 
 In today's Lab session, we will:
 
-- Install Git and VS code.
+- Install Git, VS code, and Python (via Miniconda).
 - Create a Github account and link it to VS code.
-- Create a test repository and understand how it works.
-- Create a group website.
+- Create a directory and a virtual environment for our course.
 
 # I. Git and Github
 
@@ -59,9 +58,7 @@ In today's Lab session, we will:
 - Type `code .` and press enter.
   - If you get an error message `command not found`, follow steps in [II.1](#ii1-installation) and [II.2](#ii2-link-to-github).
 - Click the profile icon at the bottom left.
-  - If you can see your **Github** acount, then you already linked your Github account to VS code.
-    - If you also installed all necessary extenstions (python, pylance, jupyter) and know how to use Git (create repository/publish repository/push/pull), then go to [IV](#iv-create-a-group-website).
-    - If not, follow steps in [II.3](#ii3-extensions) and [III](#iii-test-repository).
+  - If you can see your **Github** acount, then you already linked your Github account to VS code. Go to [II.3](#ii3-extensions).
   - If not, go to [II.2](#ii2-link-to-github).
 
 ## II.1. Installation
@@ -94,47 +91,38 @@ In today's Lab session, we will:
 - Click the extension icon on the left sidebar.
 - Search and install `Python`, `Pylance`, `Jupyter` extensions.
 
-# III. Test Repository
+# III.Python (Miniconda)
+## III.0. Verify Your Installation
+- Open **Terminal** (Mac) or **cmd** (Windows).
+- Type `conda --version` and press enter.
+  - If your version is not very outdated (latest: 25.5.1), you may use it. Go to [IV](#iv-virtual-environment).
+  - If not, update by running `conda update conda`. After updating, check the version again, and go to [IV](#iv-virtual-environment).
+  - If you get an error message `command not found`, follow steps in [III.1](#iii1-installation).
 
-- Create `test` directory anywhere on your computer (e.g.,Desktop).
-- Open **VS code** and click `File-Open folder`, then choose the `test` folder.
-- Create a file named `README.md`.
-- Type anything you want. For markdown syntax, refer to: <https://www.markdownguide.org/cheat-sheet/>
-- Save it: `Cmd+S` (Mac) or `Ctrl+S` (Windows).
-- Click the source-control icon on the left sidebar.
-- Click `Initialize repository`. This creates a hidden folder `.git` in your `test` directory.
-- Stage and Commit.
-- Click `Publish branch` and follow the instructions.
-- Try Push and Pull.
-- To open preview on VS Code,
-  - **(Mac)**: Press `Cmd+K` then release and press `V`.
-  - **(Windows)**: Press `Ctrl+K` then release and press `V`.
-- After enough exercises, you may delete this repository from both Github and your local computer.
+## III.1. Installation
 
-**File status markers**
+- Go to <https://www.anaconda.com/download/success> and download the installer for **Miniconda**.
+- **(Windows)** During installation, check "Add Miniconda3 to my **PATH** environment variable".
 
-- **U**: Untracked (new file not yet added to the repository)
-- **A**: Added (new file added to the repository)
-- **M**: Modified
-- **R**: Renamed
-- **D**: Deleted
+### After Installation
 
-During the course, you will maintain the following three repositories:
+- Open **Terminal** (Mac) or **cmd** (Windows).
+- You may see `(base)` on your terminal.
+- Type `conda --version` and press enter.
+- If **Miniconda** is successfully installed, then the version number will be displayed. Now, go to [IV](#iv-virtual-environment).
 
-1. Your own repository for lab and exercises.
-2. Group project (possibly collaboration).
-3. Group website (collaboration).
+# IV. Virtual Environment
+- Create a new directory anywhere on your computer (e.g. create `cosmos` in Desktop).
+- Download [this yaml file](/cosmos/static_files/environment.yml) and locate it to the folder you created.
+- Open VS Code.
+- Click File -> Open Folder... -> choose the folder you created.
+- Click Terminal -> New Terminal
+- Type `conda env create` and press enter. This creates conda environment `cosmos` with specified packages in `environment.yml` file in your computer.
+- Type `conda activate cosmos`. This activates the environment `cosmos`. You may see `(cosmos)` on your terminal.
+- Create `test.py` and select `cosmos` interpreter. Run `print("Hello, world")`.
+- Create `test.ipynb` and select `cosmos` kernel. Run `print("Hello, world")`.
 
-# IV. Create a Group Website
-
-Every group will create a group website to present their final project.
-
-- Go to <https://github.com/wonjun-seo/cosmos-demo> and follow the instructions. Only one member in each group should create a repository.
-
-## Assignments
-
-Update member information on the group website!
 
 # Tomorrow
 
-In tomorrow's Lab session, we will install Python.
+In tomorrow's lab session, we will work on basic Python coding, repository management using Git, and creating a group website for each team.
