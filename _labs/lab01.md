@@ -113,7 +113,7 @@ In today's Lab session, we will:
 
 # IV. Virtual Environment
 - Create a new directory anywhere on your computer (e.g. create `cosmos` in Desktop).
-- Download [this yaml file](/static_files/environment.yml) and locate it to the folder you created.
+- Download <a href ="https://github.com/wonjun-seo/cosmos/blob/master/static_files/environment.yml">This file</a> and locate it to the folder you created.
 - Open VS Code.
 - Click File -> Open Folder... -> choose the folder you created.
 - Click Terminal -> New Terminal
