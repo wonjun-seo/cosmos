@@ -1,6 +1,6 @@
 ---
 layout: lab
-title: "Lab 01: Software Setup (Git, Github, VS code)"
+title: "Lab 01: Software Setup"
 date: 2025-07-07
 ---
 # Goal
