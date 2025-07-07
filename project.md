@@ -7,27 +7,27 @@ During the final week of the program, each group, consisting of five members, wi
 
 [Demo website](https://wonjun-seo.github.io/cosmos-demo/)
 
-## Team A
+## The Deep Learners
 - website link
-- group members
+- Armaan, Brianna, Aryav, Gaurav, Jordan
 - data description
 
-## Team B
+## The Optimizers 
 - website link
-- group members
+- Joshua, Andy, Jacob, Chloe
 - data description
 
-## Team C
+## The Data Miners
 - website link
-- group members
+- Soham, Erica, Angela, Vivian, Evelyn
 - data description
 
-## Team D
+## The Backpropogators
 - website link
-- group members
+- Elaine, Allen, Rishi, Saanvi
 - data description
 
-## Team E
+## The Pattern Seekers
 - website link
-- group members
+- Colin, Wisdom, Mohini, Linda, Aiden
 - data description
