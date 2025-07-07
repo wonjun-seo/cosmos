@@ -121,7 +121,8 @@ In today's Lab session, we will:
 - Type `conda activate cosmos`. This activates the environment `cosmos`. You may see `(cosmos)` on your terminal.
 - Create `test.py` and select `cosmos` interpreter. Run `print("Hello, world")`.
 - Create `test.ipynb` and select `cosmos` kernel. Run `print("Hello, world")`.
-
+- Download <a href ="https://github.com/wonjun-seo/cosmos/blob/master/static_files/example.ipynb">This file</a> and locate it to the folder you created.
+- Open the file on VS Code and run it.
 
 # Tomorrow
 
