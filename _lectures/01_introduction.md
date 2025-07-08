@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-07-06
+date: 2025-07-07
 title: Lecture One
 links: 
   - url: /static_files/presentations/DSBasics.pdf
