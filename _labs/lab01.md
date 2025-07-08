@@ -10,6 +10,7 @@ In today's Lab session, we will:
 - Install Git, VS code, and Python (via Miniconda).
 - Create a Github account and link it to VS code.
 - Create a directory and a virtual environment for our course.
+- Create a group website.
 
 # I. Git and Github
 
