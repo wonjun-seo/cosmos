@@ -137,4 +137,4 @@ Update member information on the group website!
 
 # Tomorrow
 
-In tomorrow's lab session, we will work on basic Python coding, repository management using Git.
+In tomorrow's lab session, we will work on basic Python coding and repository management using Git.
