@@ -7,5 +7,4 @@ links:
     name: Lecture One Notes
 
   - url: [Lecture One Code](https://github.com/wonjun-seo/cosmos/tree/master/static_files/presentations/lecture_one)
-    name: Lecture One Code (Download and run in VS Code)
----
+    name: Lecture One Code
