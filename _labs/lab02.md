@@ -42,14 +42,7 @@ During the course, you will maintain at least two collaborative repositories:
 1. Group project.
 2. Group website.
 
-# IV. Create a Group Website
-Every group will create a group website to present their final project.
 
-- Go to <https://github.com/wonjun-seo/cosmos-demo> and follow the instructions. Only one member in each group should create a repository.
-
-## Assignments
-
-Update member information on the group website!
 
 # Tomorrow
 
