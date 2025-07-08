@@ -113,7 +113,7 @@ In today's Lab session, we will:
 
 # IV. Virtual Environment
 - Create a new directory anywhere on your computer (e.g. create `cosmos` in Desktop).
-- Download <a href ="https://github.com/wonjun-seo/cosmos/blob/master/static_files/environment.yml">This file</a> and locate it to the folder you created.
+- Download <a href ="https://github.com/wonjun-seo/cosmos/blob/master/static_files/environment.yml">this file</a> and locate it to the folder you created.
 - Open VS Code.
 - Click File -> Open Folder... -> choose the folder you created.
 - Click Terminal -> New Terminal
@@ -121,9 +121,19 @@ In today's Lab session, we will:
 - Type `conda activate cosmos`. This activates the environment `cosmos`. You may see `(cosmos)` on your terminal.
 - Create `test.py` and select `cosmos` interpreter. Run `print("Hello, world")`.
 - Create `test.ipynb` and select `cosmos` kernel. Run `print("Hello, world")`.
-- Download <a href ="https://github.com/wonjun-seo/cosmos/blob/master/static_files/example.ipynb">This file</a> and locate it to the folder you created.
+- Download <a href ="https://github.com/wonjun-seo/cosmos/blob/master/static_files/example.ipynb">this file</a> and locate it to the folder you created.
 - Open the file on VS Code and run it.
+
+# V. Create a Group Website
+Every group will create a group website to present their final project.
+
+- Go to <https://github.com/wonjun-seo/cosmos-demo> and follow the instructions. Only one member in each group should create a repository.
+
+
+## Assignments
+
+Update member information on the group website!
 
 # Tomorrow
 
-In tomorrow's lab session, we will work on basic Python coding, repository management using Git, and creating a group website for each team.
+In tomorrow's lab session, we will work on basic Python coding, repository management using Git.
