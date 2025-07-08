@@ -12,4 +12,5 @@ links:
     - url: /static_files/poly_regression_visualizer.ipynb
       name: Example: Polynomial Regression Visualizer
     - url: /static_files/Sleep_vs_TestScore_EDA.ipynb
+      name: Example: Sleep vs Test Scores (Exploratory Data Analysis)
 ---
