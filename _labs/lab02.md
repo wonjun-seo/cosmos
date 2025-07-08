@@ -12,6 +12,7 @@ In today's Lab session, we will:
 - Create a group website.
 
 # I. Markdown Syntax
+- Download <a href ="https://github.com/wonjun-seo/cosmos/blob/master/static_files/Markdown.md">this file</a>.
 
 # II. Test Repository
 - Create `test` directory anywhere on your computer (e.g.,Desktop).
