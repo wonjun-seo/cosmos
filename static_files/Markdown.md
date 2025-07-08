@@ -1,4 +1,4 @@
-# Markdown 1
+# Markdown
 
 Markdown is a lightweight markup language that allows you to format text using plain characters. It’s widely used for README files, documentation, and Jupyter 
 Notebooks. For better experience, install "Markdown All in One" extension from the sidebar.
@@ -6,7 +6,7 @@ Notebooks. For better experience, install "Markdown All in One" extension from t
 - Press `⌘ + Shift + V` (Mac) or `Ctrl + Shift + V` (Windows) to see preview (how it renders).
 - Press `⌘ + K` then `V` (Mac) or `Ctrl + K` then `V` (Windows) to see live side preview.
 
-It wil be used to create `.ipynb` file for your data analysis and `.md` file for your group website.
+It wil be used to create `.ipynb` files for your data analysis and `.md` file for your group website.
 
 Markdown ignores single line breaks by default.
 To create a new paragraph or visible line break, press Enter twice (i.e., leave a blank line), 
@@ -91,13 +91,17 @@ You can find the commands for symbols from [here](https://detexify.kirelabs.org/
 
 #### Display
 $$
-y = \beta_{0} + \beta_{1} x + \beta_{2} x^{2}
+y = \beta_{0} + \beta_{1} x + \beta_{2} x^{2}.
 $$
+
+$$ \begin{equation}
+a^{2} + b^{2} = c^{2}.
+\end{equation} $$
 
 $$ A = \begin{bmatrix}
 1 & 2 & 3 \\
 4 & 5 & 6
-\end{bmatrix} $$
+\end{bmatrix}. $$
 
 $$ \begin{gather}
 z = (x+y)^{2} \\
