@@ -94,34 +94,32 @@ $$
 y = \beta_{0} + \beta_{1} x + \beta_{2} x^{2}.
 $$
 
-$$ \begin{equation}
+$$
 a^{2} + b^{2} = c^{2}.
-\end{equation} $$
+\tag{1}
+$$
 
-$$ A = \begin{bmatrix}
+$$
+A = \begin{bmatrix}
 1 & 2 & 3 \\
 4 & 5 & 6
-\end{bmatrix}. $$
+\end{bmatrix}.
+$$
 
-$$ \begin{gather}
+$$
+\begin{gathered}
 z = (x+y)^{2} \\
 = x^{2} + 2xy + y^{2}.
-\end{gather} $$
+\end{gathered}
+$$
 
-$$ \begin{align}
+$$
+\begin{aligned}
 z &= (x+y)^{2} \\
 &= x^{2} + 2xy + y^{2}.
-\end{align} $$
+\end{aligned}
+$$
 
-$$ \begin{gather*}
-z = (x+y)^{2} \\
-= x^{2} + 2xy + y^{2}.
-\end{gather*} $$
-
-$$ \begin{align*}
-z &= (x+y)^{2} \\
-&= x^{2} + 2xy + y^{2}.
-\end{align*} $$
 
 
 ---
