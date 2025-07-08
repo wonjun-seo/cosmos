@@ -8,3 +8,4 @@ links:
 
   - url: [Lecture One Code](https://github.com/wonjun-seo/cosmos/tree/master/static_files/presentations/lecture_one)
     name: Lecture One Code
+---
