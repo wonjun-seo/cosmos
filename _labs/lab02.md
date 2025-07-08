@@ -38,10 +38,12 @@ In today's Lab session, we will:
 
 During the course, you will maintain at least two collaborative repositories:
 
-1. Group project.
-2. Group website.
+1. Group project (will create today).
+2. Group website (created yesterday).
 
+# III. Github Collaboration
+- In this activity, we will create a respository for data analysis, and each group member will clone this repository to their local computer.
+- Go to <https://github.com/wonjun-seo/cosmos-data-analysis>.
+- Follow the instructions!
 
-# Tomorrow
-
-In tomorrow's lab session, we will learn Python Basics focusing on pandas and matplotlib.
+---
