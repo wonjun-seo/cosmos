@@ -23,14 +23,16 @@ layout: page
 
         <a href="/cosmos/static_files/presentations/DSBasics.pdf" target="_blank">Lecture One Notes</a>
         <br>
-        <a href="/static_files/Turning_Reviews_into_Data.ipynb" download>Example: Turning Reviews into Data</a>
-        <br>
-        <a href="/static_files/Turning_Images_into_Data.ipynb" download">Example: Turning Images into Data</a>
-        <br>
-        <a href="/static_files/poly_regression_visualizer.ipynb" download>Example: Polynomial Regression Visualizer</a>
-        <br>
-        <a href="/static_files/Sleep_vs_TestScore_EDA.ipynb" download>Example: Sleep vs Test Scores (Exploratory Data Analysis)</a>
-        <br>
+       #for loop for ipynb file 
+        <ul>
+          {% for item in page.links %}
+            {% if item.url contains '.ipynb' %}
+              <li><a href="/cosmos/static_files" download>{{ item.name }}</a></li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+
+        
         {% if lecture.content != '' %}
         <br/>
         <div class="markdown-content" style="margin-top: 3px;">
