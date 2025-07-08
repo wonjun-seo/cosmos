@@ -11,7 +11,7 @@ links:
 
 --- 
 
-[Lecture One Notes](https://github.com/wonjun-seo/cosmos/tree/master/static_files/presentations/lecture_one/DSBasics.pdf)
+[Lecture One Notes](https://github.com/wonjun-seo/cosmos/blob/master/static_files/presentations/lecture_one/DSBasics.pdf)
 
 
 
