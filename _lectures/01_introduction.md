@@ -6,18 +6,5 @@ links:
   - url: /static_files/presentations/DSBasics.pdf
     name: Lecture One Notes
 
-  - url: /static_files/Turning_Reviews_into_Data.ipynb
-    name: Example: Turning Reviews into Data
-
-      
-  - url: /static_files/Turning_Images_into_Data.ipynb
-    name: Example: Turning Images into Data
-
-      
-  - url: /static_files/poly_regression_visualizer.ipynb
-    name: Example: Polynomial Regression Visualizer
-
-      
-  - url: /static_files/Sleep_vs_TestScore_EDA.ipynb
-    name: Example: Sleep vs Test Scores (Exploratory Data Analysis)
----
+  - url: [Lecture One Code](https://github.com/wonjun-seo/cosmos/tree/master/static_files/presentations/lecture_one)
+    name: Lecture One Code (Download and run in VS Code)
