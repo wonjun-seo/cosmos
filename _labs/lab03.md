@@ -37,6 +37,8 @@ After pooling, compare `data_cleaning.ipynb` with your own `data_cleaning_yourna
 Although it's not the usual practice, for simplicity we will use the main branch exclusively to maintain your group website.
 **Important**: To avoid conflicts, make sure only **one person edits and pushes changes at a time**.
 
+#### Update `README.md` file!
+
 #### Update the Home Profile Photo
   1. Upload a new photo to the `static` folder.
   2. In `hugo.yaml` file, update the `params: imageUrl` field to point to the new photo.
