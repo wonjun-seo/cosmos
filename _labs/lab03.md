@@ -71,7 +71,7 @@ Discuss with your team how you want to organize your website! If you plan to inc
   1. Open your VS code.
   2. Open a new terminal.
   3. On the terminal, activate `cosmos` environment: `conda cosmos activate`.
-  4. On the terminal, type `conda install tabulate` and proceed installation. (After installation, you don't have to repeat this anymore. Start from 5.)
+  4. On the terminal, type `conda install tabulate` and proceed installation. (After installation, you don't have to repeat this anymore. Start from v.)
   5. On the `ipynb` file, create a data frame that you want to make it to a Markdown table. Let's say its variable name is `df`.
   6. On the `ipynb` file, run `print(df.to_markdown())`. Change `df` to your data frame variable.
   7. Use the printed output.
