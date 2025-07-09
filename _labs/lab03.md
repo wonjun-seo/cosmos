@@ -11,11 +11,11 @@ In today's Lab session, we will:
 - Clean the survery responses.
 - Design the group website.
 
-## I. Github Collaboration
+# I. Github Collaboration
 - Go to <https://github.com/wonjun-seo/cosmos-data-analysis>.
 - Follow the instructions in **Git Exercise**.
 
-## II. Cleaning the Survey Responses
+# II. Cleaning the Survey Responses
 1. You can export the responses from your Google From as a CSV file.
 2. **One person** from each group uploads the CSV file to `data/raw` directory in the group's data analysis Github repository (`main` branch).
 3. Each member opens VS Code and open your group's data analysis directory.
@@ -33,28 +33,28 @@ In today's Lab session, we will:
 
 After pooling, compare `data_cleaning.ipynb` with your own `data_cleaning_yourname.ipynb` to see how your approach aligns with the group version.
 
-## III. Design the Group Website
+# III. Design the Group Website
 Although it's not the usual practice, for simplicity we will use the main branch exclusively to maintain your group website.
 **Important**: To avoid conflicts, make sure only **one person edits and pushes changes at a time**.
 
-#### Update `README.md` file!
+### Update `README.md` file!
 
-#### Update the Home Profile Photo
+### Update the Home Profile Photo
   1. Upload a new photo to the `static` folder.
   2. In `hugo.yaml` file, update the `params: imageUrl` field to point to the new photo.
 
-#### Change the Website Title and Home Description
+### Change the Website Title and Home Description
   1. Open `hugo.yaml` file.
   2. Modify the following fields:
      - `title`
      - `profileMode: title`
      - `profileMode: subtitle`
  
-#### Add a New Tab to Your Website:
+### Add a New Tab to Your Website:
   1. In `hugo.yaml`, add a new item to the `menu: main` field.
   2. In the `content` folder, create a new folder with an `_index.md` file inside. The folder name should match with the url in the `menu:main`.
 
-#### Make It Yours!
+### Make It Yours!
 This website belongs to your group. Feel free to customize it!
 Here are some ideas for content you can add:
 
@@ -64,7 +64,7 @@ Here are some ideas for content you can add:
 
 Discuss with your team how you want to organize your website! If you plan to include a journal section, we recommend taking turns to write entries each day so that everyone contributes and the content stays up to date.
 
-#### Tips
+### Tips
 - If you want to include a table in your Markdown, I highly recommend you use [this link](https://www.tablesgenerator.com/markdown_tables). 
 
 - If you want to create a Markdown table from Python, follow these steps:
