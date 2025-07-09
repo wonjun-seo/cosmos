@@ -63,3 +63,17 @@ Here are some ideas for content you can add:
 - **Photos**: Upload and display group photos.
 
 Discuss with your team how you want to organize your website! If you plan to include a journal section, we recommend taking turns to write entries each day so that everyone contributes and the content stays up to date.
+
+#### Tips
+- If you want to include a table in your Markdown, I highly recommend you use [this link](https://www.tablesgenerator.com/markdown_tables). 
+
+- If you want to create a Markdown table from Python, follow these steps:
+  1. Open your VS code.
+  2. Open a new terminal.
+  3. On the terminal, activate `cosmos` environment: `conda cosmos activate`.
+  4. On the terminal, type `conda install tabulate` and proceed installation. (After installation, you don't have to repeat this anymore. Start from v.)
+  5. On the `ipynb` file, create a data frame that you want to make it to a Markdown table. Let's say its variable name is `df`.
+  6. On the `ipynb` file, run `print(df.to_markdown())`. Change `df` to your data frame variable.
+  7. Use the printed output.
+
+ - More tips to come!
