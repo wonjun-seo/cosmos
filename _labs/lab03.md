@@ -1,6 +1,6 @@
 ---
 layout: lab
-title: "Lab 03: Github Exercise"
+title: "Lab 03"
 date: 2025-07-09
 ---
 # Goal
