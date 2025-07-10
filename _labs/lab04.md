@@ -13,7 +13,10 @@ In today's Lab session, we will:
 # I. Git workflows
 So far, we've explored how to manage repositories using Git. Today, each group will design a custom Git workflow for their project.
 
-Based on the pipeline we covered in the lecture, discuss the following with your group members:
+There is **one important rule: You are NOT allowed to push directly to the main branch**.
+Instead, any changes to the main branch must go through a separate branch and a pull request.
+
+With this rule in mind—and using the workflow pipeline we discussed in the lecture—discuss the following questions with your group:
 
 - When to create a new branch
 - What types of work should be done within that branch
