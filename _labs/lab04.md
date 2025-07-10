@@ -26,11 +26,11 @@ Through this activity, each group is expected to gain a clearer understanding of
 # 2. Plotly
 From the mini project, each group has their own dataset containing county-wise income and AQI. With this dataset, we will create an interactive plot that can be embedded to the group website.
 In this example, we use [Choropleth Maps](https://plotly.com/python/choropleth-maps/) in the package `plotly`.
-Please find the code.
+Please find <a href ="https://github.com/wonjun-seo/cosmos/blob/master/static_files/labs/4/income_aqi.ipynb">this file</a>.
 
 ## Package installation
 In your current `cosmos` environment, all the packages required for the lectures are pre-installed. However, you may need additional packages along your project, like `addfips` in this example.
-If so, please search the package in [Conda-forge website](https://anaconda.org/conda-forge/). (If you can't find a package here, you can use `pip`. If you don't know how to use `pip`, please let me know) 
+If so, please search the package in [Conda-forge website](https://anaconda.org/conda-forge/) (If you can't find a package here, you can use `pip`. If you don't know how to use `pip`, please let me know).
 There should be a command for installation. Please run the command on your terminal (either VS code terminal or system terminal) after activating `cosmos` environment.
 
 **Example**
@@ -52,3 +52,6 @@ import addfips
 3. Go to the markdown file you want to include the plot.
 4. Type `<iframe src="/plotly/YOUR_FIGURE_NAME.html" width="100%" height="400px" style="border:none;"></iframe>`.
 5. Commit changes.
+
+## Zoom in?
+If your data only contains counties in California, then it is not a good idea to show the whole map of the U.S. Check out <a href ="https://github.com/wonjun-seo/cosmos/blob/master/static_files/labs/4/income_aqi_BayArea.ipynb">this file</a>.
