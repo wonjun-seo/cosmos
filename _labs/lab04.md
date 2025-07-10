@@ -55,3 +55,8 @@ import addfips
 
 ## Zoom in?
 If your data only contains counties in California, then it is not a good idea to show the whole map of the U.S. Check out <a href ="https://github.com/wonjun-seo/cosmos/blob/master/static_files/labs/4/income_aqi_BayArea.ipynb">this file</a>.
+
+
+## Some notes
+- The plot may not display well on mobile devices.
+- If the HTML file is larger than 25MB, you cannot upload it via web browser. Please reach out to me.
