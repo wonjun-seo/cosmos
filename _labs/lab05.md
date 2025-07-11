@@ -14,6 +14,6 @@ If you can do by yourself, then go for it! If not, you can select one from [here
 From time to time, I'll update [my demo website](https://wonjun-davis.github.io) with new features. Check it out regularly! If you find something cool, you can find the commands in [its repo](https://github.com/wonjun-davis/wonjun-davis.github.io).
 
 # 2. Pandas Basics
-
+Find <a href ="https://github.com/wonjun-seo/cosmos/blob/master/static_files/labs/5/PandasBasics.ipynb">this file</a>
 
 # 3. Quiz 1 Solutions
