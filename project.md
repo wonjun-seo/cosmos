@@ -5,7 +5,7 @@ permalink: /project/
 ---
 During the final week of the program, each group, consisting of five members, will analyze their assigned dataset using the methods they have learned throughout the course. Each group will create their own webpage to present their findings on the final day of the program.
 
-[Demo website](https://wonjun-seo.github.io/cosmos-demo/)
+[Demo website](https://wonjun-davis.github.io/) [Repo for demo website](https://github.com/wonjun-davis/wonjun-davis.github.io)
 
 ## The Deep Learners
 - <https://ucd25-cosmos-deeplearners.github.io>
