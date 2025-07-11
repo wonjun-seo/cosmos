@@ -1,6 +1,7 @@
 ---
-name: Lecture Five
+type: lecture
 date: 2025-07-11
+title: Lecture Five 
 
 ---
 
