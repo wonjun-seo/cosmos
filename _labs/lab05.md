@@ -17,3 +17,4 @@ From time to time, I'll update [my demo website](https://wonjun-davis.github.io)
 Find <a href ="https://github.com/wonjun-seo/cosmos/blob/master/static_files/labs/5/PandasBasics.ipynb">this file</a>
 
 # 3. Quiz 1 Solutions
+<a href ="https://github.com/wonjun-seo/cosmos/blob/master/static_files/labs/5/Quiz1_Answer.pdf">Answer key</a>
