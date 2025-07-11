@@ -8,4 +8,4 @@ links:
   - name: Lecture Four code 
 
 ---
-[Lecture Code and Data](https://github.com/wonjun-seo/cosmos/tree/master/static_files/presentations/lecture_five/code&data))
+[Lecture Code and Data](https://github.com/wonjun-seo/cosmos/tree/master/static_files/presentations/lecture_five/code&data)
