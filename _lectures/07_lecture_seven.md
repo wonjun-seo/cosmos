@@ -9,4 +9,4 @@ links:
 
 [Lecture Seven Notes](https://github.com/wonjun-seo/cosmos/tree/master/static_files/presentations/lecture_seven/)
 
-[Lecture Seven Code](https://github.com/wonjun-seo/cosmos/tree/master/static_files/presentations/lecture_six/Random_Forest_Classification.ipynb)
+[Lecture Seven Code](https://github.com/wonjun-seo/cosmos/tree/master/static_files/presentations/lecture_seven/Random_Forest_Classification.ipynb)
