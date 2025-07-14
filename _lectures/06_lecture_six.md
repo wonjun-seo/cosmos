@@ -7,6 +7,6 @@ links:
   - name: Lecture Six notes 
 ---
 
-[Lecture Five Notes](https://github.com/wonjun-seo/cosmos/tree/master/static_files/presentations/lecture_five/)
+[Lecture Six Notes](https://github.com/wonjun-seo/cosmos/tree/master/static_files/presentations/lecture_five/)
 
-[Lecture Five Code](https://github.com/wonjun-seo/cosmos/tree/master/static_files/presentations/lecture_five/Prediction(1).pdf)
+[Lecture Six Code](https://github.com/wonjun-seo/cosmos/tree/master/static_files/presentations/lecture_five/Prediction(1).pdf)
