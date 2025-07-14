@@ -7,6 +7,7 @@ links:
   - name: Lecture Seven Notes 
 ---
 
-[Lecture Seven Notes](https://github.com/wonjun-seo/cosmos/tree/master/static_files/presentations/lecture_seven/)
+[Lecture Seven Notes](https://github.com/wonjun-seo/cosmos/tree/master/static_files/presentations/lecture_seven/Classification_Tree_Ensemble.slides.html)
 
-[Lecture Seven Code](https://github.com/wonjun-seo/cosmos/tree/master/static_files/presentations/lecture_seven/Random_Forest_Classification.ipynb)
+[Lecture Seven Code](https://github.com/wonjun-seo/cosmos/tree/master/static_files/presentations/lecture_seven/)
+
