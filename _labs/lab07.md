@@ -10,3 +10,5 @@ Today, we will go over **LSApp**, **NYC Citybike**, and **Wildfire** datasets. S
 - LSApp: <a href ="https://github.com/wonjun-seo/cosmos/blob/master/static_files/labs/7/App_starter.html">link</a>
 - NYC Citybike: <a href ="https://github.com/wonjun-seo/cosmos/blob/master/static_files/labs/7/NYCyclepedia_starter.html">link</a>
 - Wildfire: <a href ="https://github.com/wonjun-seo/cosmos/blob/master/static_files/labs/7/Wildfire_starter.html">link</a>
+- EEG: <a href ="https://github.com/wonjun-seo/cosmos/blob/master/static_files/labs/7/EEG_starter.html">link</a>
+- Canvassing: <a href ="https://github.com/wonjun-seo/cosmos/blob/master/static_files/labs/7/Canvassing_starter.html">link</a>
