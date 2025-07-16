@@ -13,3 +13,4 @@ Since you don’t have access to the datasets yet, we’re providing HTML versio
 - EEG: <a href ="https://github.com/wonjun-seo/cosmos/blob/master/static_files/labs/7/EEG_starter.html">link</a>
 - Canvassing: <a href ="https://github.com/wonjun-seo/cosmos/blob/master/static_files/labs/7/Canvassing_starter.html">link</a>
 - Soccer: <a href ="https://github.com/wonjun-seo/cosmos/blob/master/static_files/labs/7/Soccer_starter.html">link</a>
+- Tariff: <a href ="https://github.com/wonjun-seo/cosmos/blob/master/static_files/labs/7/Tariff_starter.html">link</a>
