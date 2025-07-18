@@ -12,4 +12,3 @@ links:
 [Lecture Seven Notes (II)](https://github.com/wonjun-seo/cosmos/tree/master/static_files/presentations/lecture_seven/Unsupervised_learning.slide.pdf)
 
 [Lecture Seven Code](https://github.com/wonjun-seo/cosmos/tree/master/static_files/presentations/lecture_seven/)
-
