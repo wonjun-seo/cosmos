@@ -34,7 +34,6 @@ $\begin{bmatrix}
 [Transformation Visualization](https://github.com/wonjun-seo/cosmos/tree/master/static_files/presentations/lecture_nine/visualization.ipynb)
 
 
----
 ## Motivation: Why Matrices?
 
 
