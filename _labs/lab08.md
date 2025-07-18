@@ -1,6 +1,6 @@
 ---
 layout: lab
-title: "Lab 08": Scikit-learn
+title: "Lab 08: Scikit-learn"
 date: 2025-07-18
 ---
 ## Scikit-learn Basics
