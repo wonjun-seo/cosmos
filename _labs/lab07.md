@@ -1,6 +1,6 @@
 ---
 layout: lab
-title: "Lab 07"
+title: "Lab 07: Dataset Preview"
 date: 2025-07-15
 ---
 In today's lab session, we will preview project datasets. Tomorrow, each group will be assigned their dataset along with the starter Jupyer notebook that are used in this preview session.
