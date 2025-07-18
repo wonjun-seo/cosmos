@@ -11,24 +11,24 @@ During the final week of the program, each group, consisting of five members, wi
 ## The Deep Learners
 - <https://ucd25-cosmos-deeplearners.github.io>
 - Armaan, Brianna, Aryav, Gaurav, Jordan
-- data description
+- Soccer
 
 ## The Optimizers 
 - <https://ucd25-cosmos-optimizers.github.io>
 - Joshua, Andy, Jacob, Chloe
-- data description
+- EEG
 
 ## The Data Miners
 - <https://ucd25-cosmos-the-data-miners.github.io>
 - Soham, Erica, Angela, Vivian, Evelyn
-- data description
+- NYCyclepedia
 
 ## The Backpropogators
 - <https://ucd25-cosmos-thebackpropagators.github.io>
 - Elaine, Allen, Rishi, Saanvi
-- data description
+- Wildfires
 
 ## The Pattern Seekers
 - <https://ucd25-cosmos-patternseekers.github.io>
 - Colin, Wisdom, Mohini, Linda, Aiden
-- data description
+- Mobile App Usage
