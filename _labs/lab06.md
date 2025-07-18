@@ -1,6 +1,6 @@
 ---
 layout: lab
-title: "Lab 06"
+title: "Lab 06: OOP and Matplotlib"
 date: 2025-07-14
 ---
 # 1. Object-Oriented Programming in Python
