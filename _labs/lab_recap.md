@@ -180,4 +180,6 @@ $$
 y = 1.0 + 0.5x
 $$
 
+[Visualization notebook](https://github.com/wonjun-seo/cosmos/tree/master/static_files/presentations/lecture_nine/least_squaress.ipynb)
+
 For further reading on the math behind least squares regresiion, see [this page](https://textbooks.math.gatech.edu/ila/least-squares.htmls)
