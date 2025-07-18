@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-07-18
+date: 2025-07-16
 title: lecture Eight
 links:
   - url: https://github.com/wonjun-seo/cosmos/tree/master/static_files/presentations/lecture_eight/
