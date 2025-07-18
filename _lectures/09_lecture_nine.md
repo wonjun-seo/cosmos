@@ -7,4 +7,4 @@ links:
   - name: Lecture Nine Notes 
 ---
 
-Lecture Nine material will be posted soon
+[Lecture Nine Notes]()
