@@ -26,6 +26,10 @@ address: |
 
 # Build settings
 markdown: kramdown
+kramdown:
+  input: GFM
+  math_engine: mathjax
+  ##for inline math
 
 # Other options
 permalink: blog/:year/:month/:title
@@ -43,4 +47,5 @@ collections:
     labs:
         output: true
         permalink: /labs/:name/
+
 
