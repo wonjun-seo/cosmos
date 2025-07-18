@@ -8,7 +8,6 @@ date: 2025-08-18
 ## A peek under the hood 
 Consider the linear system of equations 
 
-
 $1.5x + 0.5y = 2$
 
 $0.2x + 1.2y = 1.2$
@@ -119,8 +118,6 @@ $ P = \begin{bmatrix}
 0.002 & 0.159
 \end{bmatrix}$
  
-<small>If you want to read m</small>.
-
 
 Then, the multiplication $A \times P$ yields a new  $4 \times 2 $ matrix $X$ which can be visualized in lower dimensional space.
 
@@ -132,3 +129,6 @@ $X = \begin{bmatrix}
 \end{bmatrix}$
 
 [PCA Visualization](https://github.com/wonjun-seo/cosmos/tree/master/static_files/presentations/lecture_nine/pca_visualization.ipynb)
+
+
+For further reading, visit [This page](https://www.math.union.edu/~jaureguj/PCA.pdf)
