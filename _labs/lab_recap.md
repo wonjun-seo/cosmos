@@ -38,7 +38,7 @@ $\begin{bmatrix}
 
 Matrix notation is visually cumbersome, and it is often difficult to understand. However, for complicated systems, it often simplifies calculations. Further, computing software such as MATLAB can help solve these systems quickly.
 
-Consider the Lorentz Equation which can be visualized as 
+Consider the Lorentz Equation (Convection Model) which can be visualized as 
 
 ![](https://geoffboeing.com/wp-content/uploads/2016/12/lorenz-attractor-phase-plane-1024x393.png)
 
