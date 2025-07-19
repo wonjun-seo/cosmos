@@ -1,4 +1,5 @@
 ---
+layout: lab
 title: A Brief Introduction to Linear Algebra
 date: 2025-08-18
 ---
