@@ -9,9 +9,9 @@ date: 2025-08-18
 ## A peek under the hood 
 Consider the linear system of equations 
 
-$1.5x + 0.5y = 2$
+$`1.5x + 0.5y = 2`$
 
-$0.2x + 1.2y = 1.2$
+$`0.2x + 1.2y = 1.2`$
 
 If we solve this system of equations using algebraic techniques, we can trivially find that $x = 1$ and $y = 1$
 
