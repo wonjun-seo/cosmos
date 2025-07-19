@@ -101,19 +101,29 @@ $$
 
 can be written as 
 $$
-\begin{bmatrix} \nabla \cdot \mathbf{E} \\\nabla \cdot \mathbf{B} \\\nabla \times \mathbf{E} \\\nabla \times \mathbf{B}\end{bmatrix} =\begin{bmatrix}\frac{\rho}{\varepsilon_0} \\0 \\- \frac{\partial \mathbf{B}}{\partial t} \\\mu_0 \mathbf{J} + \mu_0 \varepsilon_0 \frac{\partial \mathbf{E}}{\partial t}
+\begin{bmatrix} 
+\nabla \cdot \mathbf{E} \\
+\nabla \cdot \mathbf{B} \\
+\nabla \times \mathbf{E} \\
+\nabla \times \mathbf{B}
+\end{bmatrix} = \begin{bmatrix}
+\frac{\rho}{\varepsilon_0} \\
+0 \\ 
+-\frac{\partial \mathbf{B}}{\partial t} \\
+\mu_0 \mathbf{J} + \mu_0 \varepsilon_0 \frac{\partial \mathbf{E}}{\partial t}
 \end{bmatrix}
 $$
 
 where 
 $$
-\nabla = \frac{\partial}{\partial x} \hat{i} +\frac{\partial}{\partial y} \hat{j} + \frac{\partial}{\partial z} \hat{k} = \begin{bmatrix} \frac{\partial}{\partial x} \\ \frac{\partial}{\partial y} \\ \frac{\partial}{\partial z}
+\nabla = \frac{\partial}{\partial x} \hat{i} + \frac{\partial}{\partial y} \hat{j} + \frac{\partial}{\partial z} \hat{k} = \begin{bmatrix} \frac{\partial}{\partial x} \\
+\frac{\partial}{\partial y} \\
+\frac{\partial}{\partial z}
+\end{bmatrix}
 $$
 
 
 Matrix (Linear) Algebra is a powerful tool in Data Science because it is the underlying foundation for techniques such as...
-
-
 
 
 ## PCA (Principle Component Analysis)
@@ -134,10 +144,10 @@ If we let $A$ be a $4 \times 4$ matrix composed of the Data listed above
 
 $$
 A = \begin{bmatrix}
-3.9 & 1510 & 6 & 5\\
-4.0 & 1340 & 10 & 7\\
-3.2 & 1590 & 2 & 2\\
-2.0 & 1220 & 1 & 1\\
+3.9 & 1510 & 6 & 5 \\
+4.0 & 1340 & 10 & 7 \\
+3.2 & 1590 & 2 & 2 \\
+2.0 & 1220 & 1 & 1 \\
 \end{bmatrix}
 $$
 
@@ -145,9 +155,9 @@ then, If we have some projection matrix $P$
 
 $$ 
 P = \begin{bmatrix}
--0.001 & −0.0001\\
-0.999 & −0.004\\
-0.003 & 0.987\\
+-0.001 & −0.0001 \\
+0.999 & −0.004 \\
+0.003 & 0.987 \\
 0.002 & 0.159
 \end{bmatrix}
 $$
@@ -155,9 +165,9 @@ Then, the multiplication $A \times P$ yields a new  $4 \times 2 $ matrix $X$ whi
 
 $$
 X = \begin{bmatrix}
-1508.5 & 0.67661\\
-1338.7 & 5.6226\\
-1588.4 & -4.0683\\
+1508.5 & 0.67661 \\
+1338.7 & 5.6226 \\
+1588.4 & -4.0683 \\
 1218.8 & -3.7342
 \end{bmatrix}
 $$
