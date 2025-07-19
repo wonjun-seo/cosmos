@@ -92,14 +92,15 @@ Or
 
 $$
 \begin{aligned}
-\nabla \cdot \mathbf{E} = \frac{\rho}{\varepsilon_0} & \text{Gauss's law} \\
-\nabla \cdot \mathbf{B} = 0 & \text{Gauss's law for magnetism} \\
-\nabla \times \mathbf{E} = -\frac{\partial \mathbf{B}}{\partial t} & \text{Faraday's law} \\
-\nabla \times \mathbf{B} = \mu_0 \mathbf{J} + \mu_0 \varepsilon_0 \frac{\partial \mathbf{E}}{\partial t} & \text{Ampère's law with Maxwell's correction}
+\nabla \cdot \mathbf{E} = \frac{\rho}{\varepsilon_0} & \quad \text{Gauss's law} \\
+\nabla \cdot \mathbf{B} = 0 & \quad \text{Gauss's law for magnetism} \\
+\nabla \times \mathbf{E} = -\frac{\partial \mathbf{B}}{\partial t} & \quad \text{Faraday's law} \\
+\nabla \times \mathbf{B} = \mu_0 \mathbf{J} + \mu_0 \varepsilon_0 \frac{\partial \mathbf{E}}{\partial t} & \quad \text{Ampère's law with Maxwell's correction}
 \end{aligned}
 $$
 
 can be written as 
+
 $$
 \begin{bmatrix} 
 \nabla \cdot \mathbf{E} \\
@@ -115,6 +116,7 @@ $$
 $$
 
 where 
+
 $$
 \nabla = \frac{\partial}{\partial x} \hat{i} + \frac{\partial}{\partial y} \hat{j} + \frac{\partial}{\partial z} \hat{k} = \begin{bmatrix} \frac{\partial}{\partial x} \\
 \frac{\partial}{\partial y} \\
@@ -161,6 +163,7 @@ P = \begin{bmatrix}
 0.002 & 0.159
 \end{bmatrix}
 $$
+
 Then, the multiplication $A \times P$ yields a new  $4 \times 2 $ matrix $X$ which can be visualized in lower dimensional space.
 
 $$
