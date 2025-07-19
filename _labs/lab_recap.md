@@ -9,28 +9,28 @@ date: 2025-08-18
 ## A peek under the hood 
 Consider the linear system of equations 
 
-$`1.5x + 0.5y = 2`$
+$$ 1.5x + 0.5y = 2 $$
 
-$`0.2x + 1.2y = 1.2`$
+$$ 0.2x + 1.2y = 1.2$$
 
 If we solve this system of equations using algebraic techniques, we can trivially find that $x = 1$ and $y = 1$
 
 Using matrices, we can also write this system as
 
-```math
+$$
 \begin{bmatrix}
 1.5 & 0.5\\
 0.2 & 1.2\\
-\end{bmatrix}$
-$\begin{bmatrix}
+\end{bmatrix}
+\begin{bmatrix}
 x\\
 y\\
-\end{bmatrix}$ =
-$\begin{bmatrix}
+\end{bmatrix} =
+\begin{bmatrix}
 2\\
 1.2\\
 \end{bmatrix}
-```
+$$
 
 [Transformation Visualization](https://github.com/wonjun-seo/cosmos/tree/master/static_files/presentations/lecture_nine/visualization.ipynb)
 
