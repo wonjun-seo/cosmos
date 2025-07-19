@@ -17,7 +17,8 @@ If we solve this system of equations using algebraic techniques, we can triviall
 
 Using matrices, we can also write this system as
 
-$\begin{bmatrix}
+```math
+\begin{bmatrix}
 1.5 & 0.5\\
 0.2 & 1.2\\
 \end{bmatrix}$
@@ -28,7 +29,9 @@ y\\
 $\begin{bmatrix}
 2\\
 1.2\\
-\end{bmatrix}$
+\end{bmatrix}
+```
+
 [Transformation Visualization](https://github.com/wonjun-seo/cosmos/tree/master/static_files/presentations/lecture_nine/visualization.ipynb)
 
 ## Motivation: Why Matrices?
