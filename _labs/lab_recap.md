@@ -57,7 +57,23 @@ We can solve this system in matrix form as
 
 
 $$
-\frac{d}{dt} \begin{pmatrix} x \\ y \\ z \end{pmatrix} = \begin{pmatrix}-\sigma & \sigma & 0 \\\rho & -1 & 0 \\0 & 0 & -\beta\end{pmatrix}\begin{pmatrix} x \\ y \\ z \end{pmatrix}+ \begin{pmatrix} 0 \\ -xz \\ xy \end{pmatrix}
+\frac{d}{dt} \begin{pmatrix} 
+x \\
+y \\ 
+z 
+\end{pmatrix} = \begin{pmatrix}
+-\sigma & \sigma & 0 \\ 
+\rho & -1 & 0 \\
+0 & 0 & -\beta
+\end{pmatrix} \begin{pmatrix} 
+x \\
+y \\ 
+z 
+\end{pmatrix} + \begin{pmatrix} 
+0 \\ 
+-xz \\ 
+xy 
+\end{pmatrix}
 $$
 
 
@@ -75,12 +91,12 @@ $$
 Or
 
 $$
-\begin{gathered}
-\nabla \cdot \mathbf{E} = \frac{\rho}{\varepsilon_0} \quad \text{Gauss's law} \\
-\nabla \cdot \mathbf{B} = 0 \quad \text{Gauss's law for magnetism} \\
-\nabla \times \mathbf{E} = -\frac{\partial \mathbf{B}}{\partial t} \quad \text{Faraday's law} \\
-\nabla \times \mathbf{B} = \mu_0 \mathbf{J} + \mu_0 \varepsilon_0 \frac{\partial \mathbf{E}}{\partial t} \quad \text{Ampère's law with Maxwell's correction}
-\end{gathered}
+\begin{aligned}
+\nabla \cdot \mathbf{E} = \frac{\rho}{\varepsilon_0} & \text{Gauss's law} \\
+\nabla \cdot \mathbf{B} = 0 & \text{Gauss's law for magnetism} \\
+\nabla \times \mathbf{E} = -\frac{\partial \mathbf{B}}{\partial t} & \text{Faraday's law} \\
+\nabla \times \mathbf{B} = \mu_0 \mathbf{J} + \mu_0 \varepsilon_0 \frac{\partial \mathbf{E}}{\partial t} & \text{Ampère's law with Maxwell's correction}
+\end{aligned}
 $$
 
 can be written as 
