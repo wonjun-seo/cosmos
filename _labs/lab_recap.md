@@ -10,7 +10,7 @@ Consider the linear system of equations
 
 $1.5x + 0.5y = 2$
 
-$0.2x + 1.2y = 1.2$
+$0.2x + 1.2y = 1.4$
 
 If we solve this system of equations using algebraic techniques, we can trivially find that $x = 1$ and $y = 1$
 
@@ -34,7 +34,7 @@ $\begin{bmatrix}
 
 Matrix notation is visually cumbersome, and it is often difficult to understand. However, for complicated systems, it often simplifies calculations. Further, computing software such as MATLAB can help solve these systems quickly.
 
-Consider the Lorentz Equation (Convection Model) which can be visualized as 
+Consider the Lorentz Equation (Model to show Atmospheric Convection) which can be visualized as 
 
 ![](https://geoffboeing.com/wp-content/uploads/2016/12/lorenz-attractor-phase-plane-1024x393.png)
 
@@ -65,6 +65,8 @@ y & x & -\beta
 \end{pmatrix}
 $
 
+This matrix gives a numerical explaination for the spacetime transformation
+
 
 Or
 
@@ -80,7 +82,14 @@ can be written as
 $\begin{bmatrix} \nabla \cdot \mathbf{E} \\\nabla \cdot \mathbf{B} \\\nabla \times \mathbf{E} \\\nabla \times \mathbf{B}\end{bmatrix} =\begin{bmatrix}\frac{\rho}{\varepsilon_0} \\0 \\- \frac{\partial \mathbf{B}}{\partial t} \\\mu_0 \mathbf{J} + \mu_0 \varepsilon_0 \frac{\partial \mathbf{E}}{\partial t}
 \end{bmatrix}$
 
-where $\nabla = \frac{\partial}{\partial x} \hat{i} +\frac{\partial}{\partial y} \hat{j} + \frac{\partial}{\partial z} \hat{k} = \begin{bmatrix} \frac{\partial}{\partial x} \\ \frac{\partial}{\partial y} \\ \frac{\partial}{\partial z} $
+where 
+$\nabla = \frac{\partial}{\partial x} \hat{i} +\frac{\partial}{\partial y} \hat{j} + \frac{\partial}{\partial z} \hat{k}$
+
+which is equivalent to 
+
+$\nabla = \begin{bmatrix}\frac{\partial}{\partial x}\\ \frac{\partial}{\partial y} \\ \frac{\partial}{\partial z} \end{bmatrix}$
+
+Matrices are the backbone to explain how 
 
 
 Matrix (Linear) Algebra is a powerful tool in Data Science because it is the underlying foundation for techniques such as...
@@ -183,3 +192,26 @@ $$
 [Visualization notebook](https://github.com/wonjun-seo/cosmos/tree/master/static_files/presentations/lecture_nine/least_squaress.ipynb)
 
 For further reading on the math behind least squares regresiion, see [this page](https://textbooks.math.gatech.edu/ila/least-squares.htmls)
+
+Transpose of a matrix 
+
+$\begin{bmatrix}
+1 & 2 & 3\\
+9 & 4 & 6\\
+2 & 7 & 0\\
+\end{bmatrix}^{T} = \begin{bmatrix} 1 & 9 & 2\\ 2 & 4 & 7\\ 3 & 6 & 0\\ \end{bmatrix}$
+
+
+A matrix A multiplied by a matrix B is given by 
+$X = BA$ 
+
+$A = \begin{bmatrix} 0  &1\\ 2 & 0 \end{bmatrix}$
+
+$B = \begin{bmatrix} 1 & 0\\ 1 & 2 \end{bmatrix}$
+
+
+$X = BA$ is given by 
+
+
+$X = \begin{bmatrix}  0 & 2 \\ 2 & 0\end{bmatrix}$
+
