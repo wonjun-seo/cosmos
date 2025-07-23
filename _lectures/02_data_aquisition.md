@@ -8,8 +8,8 @@ links:
 ---
 
 
-[lecture Two Notes (I)](https://github.com/wonjun-seo/cosmos/blob/master/static_files/presentations/lecture_two/notes/DA(1).pdf)
+[lecture Two Notes (I) (07-08-2025)](https://github.com/wonjun-seo/cosmos/blob/master/static_files/presentations/lecture_two/notes/DA(1).pdf)
 
-[Lecture Two Notes (II)](https://github.com/wonjun-seo/cosmos/blob/master/static_files/presentations/lecture_two/notes/DA(2).pdf)
+[Lecture Two Notes (II) (07-08-2025)](https://github.com/wonjun-seo/cosmos/blob/master/static_files/presentations/lecture_two/notes/DA(2).pdf)
 
 [Lecture One Code](https://github.com/wonjun-seo/cosmos/tree/master/static_files/presentations/lecture_two)

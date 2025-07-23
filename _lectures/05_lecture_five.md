@@ -7,4 +7,4 @@ links:
   - name: Lecture Five code 
 ---
 
-[Lecture Five Notes](https://github.com/wonjun-seo/cosmos/tree/master/static_files/presentations/lecture_five/)
+[Lecture Five Notes (07-11-2025)](https://github.com/wonjun-seo/cosmos/tree/master/static_files/presentations/lecture_five/)

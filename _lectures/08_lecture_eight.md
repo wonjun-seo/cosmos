@@ -7,6 +7,6 @@ links:
   - name: Lecture Eight Notes 
 ---
 
-[Lecture Eight Notes](https://github.com/wonjun-seo/cosmos/tree/master/static_files/presentations/lecture_eight/Model_Validation.slides.pdf)
+[Lecture Eight Notes (07-16-2025)](https://github.com/wonjun-seo/cosmos/tree/master/static_files/presentations/lecture_eight/Model_Validation.slides.pdf)
 
 [Lecture Eight Code](https://github.com/wonjun-seo/cosmos/tree/master/static_files/presentations/lecture_eight/)

@@ -7,6 +7,6 @@ links:
   - name: Lecture Nine Notes 
 ---
 
-[Lecture Nine Notes](https://github.com/wonjun-seo/cosmos/tree/master/static_files/presentations/lecture_nine/Neural_Nets_Islides.pdf)
+[Lecture Nine Notes (07-18-2025)](https://github.com/wonjun-seo/cosmos/tree/master/static_files/presentations/lecture_nine/Neural_Nets_Islides.pdf)
 
 [Lecture Nine Code](https://github.com/wonjun-seo/cosmos/tree/master/static_files/presentations/lecture_nine/)

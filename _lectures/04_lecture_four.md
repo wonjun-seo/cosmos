@@ -7,6 +7,7 @@ links:
   - name: Lecture Four code 
 ---
 
-[Lecture Four Code](https://github.com/wonjun-seo/cosmos/tree/master/static_files/presentations/lecture_four)
+[Lecture Four Notes (07-10-2025)](https://github.com/wonjun-seo/cosmos/tree/master/static_files/presentations/lecture_four/notes)
 
-[Lecture Four Notes](https://github.com/wonjun-seo/cosmos/tree/master/static_files/presentations/lecture_four/notes)
+
+[Lecture Four Code](https://github.com/wonjun-seo/cosmos/tree/master/static_files/presentations/lecture_four)

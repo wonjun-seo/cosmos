@@ -10,6 +10,6 @@ links:
     - url: https://github.com/wonjun-seo/cosmos/blob/master/static_files/presentations/lecture_three/EDA(1).pdf
     - name: Lecture Three Notes
 ---
-[Lecture Three Notes](https://github.com/wonjun-seo/cosmos/blob/master/static_files/presentations/lecture_three/EDA(1).pdf)
+[Lecture Three Notes (07-09-2025)](https://github.com/wonjun-seo/cosmos/blob/master/static_files/presentations/lecture_three/EDA(1).pdf)
 
 [Lecture Three Code](https://github.com/wonjun-seo/cosmos/tree/master/static_files/presentations/lecture_three)

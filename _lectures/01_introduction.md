@@ -9,6 +9,6 @@ links:
   - url: https://github.com/wonjun-seo/cosmos/tree/master/static_files/presentations/lecture_one
     name: Lecture One Code
 ---
-[Lecture One Notes](https://github.com/wonjun-seo/cosmos/blob/master/static_files/presentations/lecture_one/DSBasics.pdf)
+[Lecture One Notes (07-07-2025)](https://github.com/wonjun-seo/cosmos/blob/master/static_files/presentations/lecture_one/DSBasics.pdf)
 
 [Lecture One Code](https://github.com/wonjun-seo/cosmos/tree/master/static_files/presentations/lecture_one)
