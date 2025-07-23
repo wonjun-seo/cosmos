@@ -1,7 +1,7 @@
 ---
 type: lecture
 title: Lecture ten
-date: 2025-07-20
+date: 2025-07-21
 ---
 
 [Lecture Ten Notes (I) (07-21-2025)](https://github.com/wonjun-seo/cosmos/blob/master/static_files/presentations/lecture_ten/Neural_Nets_II.slides.html)
