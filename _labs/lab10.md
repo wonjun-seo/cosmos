@@ -24,4 +24,6 @@ You can find the training set from the following links:
 
 Try to build your own model and let's see whose model is the best on test set!
 
-Test set will be given at the end of the class.
+Test set:
+- <a href ="https://github.com/wonjun-seo/cosmos/blob/master/static_files/labs/10/X_train.csv">X_test.csv</a>
+- <a href ="https://github.com/wonjun-seo/cosmos/blob/master/static_files/labs/10/y_train.csv">y_test.csv</a>
